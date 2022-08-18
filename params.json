@@ -1,0 +1,5 @@
+{
+    "FEEDS_LANGUAGE": "en",
+    "DATASET_ID": "data-engnr.bixi",
+    "URL": "https://gbfs.velobixi.com/gbfs/gbfs.json"
+    }
